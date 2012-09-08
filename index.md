@@ -2,4 +2,4 @@
 layout: default
 title: @coolcorn
 ---
-Hello, world!
+Hello world!
