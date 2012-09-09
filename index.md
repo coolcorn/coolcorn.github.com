@@ -1,7 +1,10 @@
 ---
 layout: default
-title: coolcorn - tweets from Coolidge Corner
+title: COOLidge CORNer
 ---
+* [links](links)
+* [devo](devo)
+
 <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js" type="text/javascript"></script>
 <script type="text/javascript">
 new TWTR.Widget({
