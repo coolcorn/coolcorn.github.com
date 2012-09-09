@@ -30,7 +30,7 @@ new TWTR.Widget({
       //links: '#4aed05'
       background: '#ccbd9f',
       color: 'black',
-      links: '#587aff'
+      links: 'blue'
     }
   },
   features: {
