@@ -4,7 +4,7 @@ title: Coolidge Corner links
 ---
 * http://www.brooklinema.gov
 * http://brooklinelibrary.org
-* http://brooklinetab.com/
+* http://brooklinetab.com
 * http://www.brooklineartists.com
 * http://brooklineartscenter.com
 * http://brooklineperspective.blogspot.com
