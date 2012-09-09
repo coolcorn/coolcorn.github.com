@@ -4,3 +4,7 @@ body {
 */
  background-color:white;
 }
+
+div.twtr-tweet-text {
+	font-size: 18px
+}
